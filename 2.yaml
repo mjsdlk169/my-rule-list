@@ -1,4 +1,4 @@
-payload:
+  payload:
   - 23.89.50.180/32,no-resolve
   - 23.91.3.114/32,no-resolve
   - 23.231.151.252/32,no-resolve
