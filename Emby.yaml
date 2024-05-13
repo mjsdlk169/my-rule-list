@@ -2,3 +2,5 @@ payload:
  - DOMAIN-SUFFIX,cn2gias.uk
  - DOMAIN-SUFFIX,film.reddust.link
  - DOMAIN-SUFFIX,public.emby.ws
+ - IP-CIDR,83.147.61.152,no-resolve
+ - IP-CIDR,104.160.178.150,no-resolve
