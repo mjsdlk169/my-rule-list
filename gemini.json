@@ -1,1 +1,31 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+          "bard.google.com",
+          "deepmind.com",
+          "deepmind.google",
+          "gemini.google.com",
+          "generativeai.google",
+          "proactivebackend-pa.googleapis.com",
+          "apis.google.com",
+          "www.51kim.com",
+          "sntp.uk",
+          "dashboard.xttlove.uk",
+          "bulianglin.com"
+      ], 
+      "domain": [
+          "ai.google.dev",
+          "alkalimakersuite-pa.clients6.google.com",
+          "makersuite.google.com"
+      ],
+      "domain_keyword": [
+          "colab",
+          "perplexity",
+          "developerprofiles",
+          "generativelanguage"
+        ]
+    }
+  ]
+}
