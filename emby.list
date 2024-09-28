@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,coemn.com
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-KEYWORD,magpie
+IP-CIDR,104.160.170.176/32,no-resolve
