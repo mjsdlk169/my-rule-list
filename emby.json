@@ -11,6 +11,10 @@
           "misakaf.org"
       ],
       "domain_keyword": "magpie"
+    }, {
+      "ip_cidr": [
+        "104.160.170.176/32"
+      ]
     }
   ]
 }
