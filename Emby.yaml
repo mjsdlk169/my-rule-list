@@ -7,3 +7,5 @@ payload:
  - DOMAIN-SUFFIX,misakaf.org
  - DOMAIN-SUFFIX,pilipiliultra.top
  - IP-CIDR,104.160.170.176/32,no-resolve
+ - DOMAIN-SUFFIX,pilipili.club
+ - DOMAIN-SUFFIX,nanflix.net
