@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-KEYWORD,perplexity
   - IP-CIDR,95.161.76.100/31,REJECT,no-resolve
+  - DOMAIN,lens.l.google.com
