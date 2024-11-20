@@ -51,3 +51,4 @@ DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 DOMAIN,lens.l.google.com
+IP-CIDR,95.161.76.100/31,REJECT,no-resolve
