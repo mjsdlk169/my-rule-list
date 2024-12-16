@@ -5,10 +5,10 @@ payload:
  - DOMAIN-KEYWORD,magpie
  - DOMAIN-SUFFIX,coemn.com
  - DOMAIN-SUFFIX,misakaf.org
- - IP-CIDR,104.160.170.176/32,no-resolve
  - DOMAIN-SUFFIX,pilipili.club
  - DOMAIN-SUFFIX,nanflix.net
  - DOMAIN-SUFFIX,embymv.link
  - DOMAIN-SUFFIX,ouonet.org
  - DOMAIN-SUFFIX,makima.online
  - DOMAIN-SUFFIX,auroramedia.vip
+ - DOMAIN-SUFFIX,tdck.fun
