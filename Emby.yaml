@@ -12,3 +12,4 @@ payload:
  - DOMAIN-SUFFIX,makima.online
  - DOMAIN-SUFFIX,auroramedia.vip
  - DOMAIN-SUFFIX,tdck.fun
+ - IP-CIDR,176.116.18.232/24,no-resolve
