@@ -168,12 +168,6 @@ payload:
     - +.douyuscdn.com
     - +.douyutv.com
 
-  # Epic
-    - +.epicgames.com
-    - +.epicgames.dev
-    - +.helpshift.com
-    - +.paragon.com
-    - +.unrealengine.com
 
   # HuaWei
     - +.dbankcdn.com
@@ -318,11 +312,6 @@ payload:
     - +.sony.com
     - +.sonyentertainmentnetwork.com
 
-  # SteamCN
-    - +.cm.steampowered.com
-    - +.steamcontent.com
-    - +.steamusercontent.com
-    - +.steamchina.com
 
   # Tencent
     - +.foxmail.com
