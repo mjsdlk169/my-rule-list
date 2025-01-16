@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,xiami
   - DOMAIN-KEYWORD,xiaomi
   - DOMAIN-KEYWORD,glodon 
+  - DOMAIN-KEYWORD,wps  
   - IP-CIDR,139.220.243.27/32,no-resolve
   - IP-CIDR,172.16.102.56/32,no-resolve
   - IP-CIDR,185.188.32.1/28,no-resolve
