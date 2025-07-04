@@ -12,6 +12,7 @@ payload:
   - DOMAIN,steamstatic.com.8686c.com
   - DOMAIN,wmsjsteam.com
   - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
