@@ -14,7 +14,6 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,perplexity
 DOMAIN,lens.l.google.com
 IP-CIDR,95.161.76.100/31,REJECT,no-resolve
-DOMAIN-SUFFIX,mcdn.bilivideo.com,REJECT
-DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT  
-DOMAIN-SUFFIX,szbdyd.com,REJECT 
+
+
 
