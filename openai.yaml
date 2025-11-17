@@ -15,5 +15,6 @@ payload:
   - DOMAIN-KEYWORD,perplexity
   - IP-CIDR,95.161.76.100/31,REJECT,no-resolve
   - DOMAIN,lens.l.google.com
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
 
 
