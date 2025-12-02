@@ -1,4 +1,25 @@
 payload:
+## >> QQ
+  - DOMAIN-SUFFIX,mqqurl.com
+  - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,qmail.com
+  - DOMAIN-SUFFIX,qpimg.cn
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qq.com.cn
+  - DOMAIN-SUFFIX,qqgames.com
+  - DOMAIN-SUFFIX,qqmail.com
+  - DOMAIN-SUFFIX,qqopenapp.com
+  - DOMAIN-SUFFIX,qstatic.com
+  - DOMAIN-SUFFIX,shurl.cn
+  - DOMAIN-SUFFIX,yximg.cn
+## >> QQ空间
+  - DOMAIN-SUFFIX,qzone.com
+  - DOMAIN-SUFFIX,qzoneapp.com
+  - DOMAIN-SUFFIX,urlshare.cn
+## >> QQ空间大文件
+  - DOMAIN-SUFFIX,upqzfile.com
+  - DOMAIN-SUFFIX,upqzfilebk.com
+
   - DOMAIN-KEYWORD,360buy
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alimama
